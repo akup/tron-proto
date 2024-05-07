@@ -5,3 +5,4 @@ data
 
 #Intellij
 *.iml
+.idea
